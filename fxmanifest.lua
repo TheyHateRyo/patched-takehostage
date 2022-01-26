@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'robbster / DotKom'
+author 'robbster / BankWrotes'
 description 'TakeHostage'
 version '1.0.0'
 
